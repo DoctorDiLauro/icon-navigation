@@ -16,6 +16,14 @@ html {
   text-align: center;
 }
 
+a {
+  background-color: #15114c;
+}
+
+a:hover {
+  background-color: #fff;
+}
+
 li {
   background-color: #15114c;
   border-radius: 8px;
